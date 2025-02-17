@@ -4,7 +4,7 @@ Huzeyfe Sevim / Halil İbrahim Karayel / Mobil Programlama Proejsi
 
 ## Tanım
 
-Bu projeyi hayatımız boyunca parayı güzel kontrol edemediğimiz için yaptık, artı olarak projenin fikri daha kapsamlı bir projemde de bulunuyordu. 
+Bu projeyi hayatımız boyunca parayı güzel kontrol edemediğimiz için yaptık, web tabanlı programlama dersimizin final ödevidir.
 
 ![image](https://github.com/user-attachments/assets/fb9e79fc-ae7f-4bea-a26b-e43682ef3e9a)
 Burada projemizin giriş ekranı bulunmakta
